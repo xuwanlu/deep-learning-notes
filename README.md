@@ -1,6 +1,6 @@
 # deep-learning-notes
 quicksort example
-'''
+```
 def quicksort(arr):
     if len(arr) <= 1:
         return arr
@@ -12,4 +12,4 @@ def quicksort(arr):
 
 print quicksort([3,6,8,10,1,2,1])
 # Prints "[1, 1, 2, 3, 6, 8, 10]"
-'''
+```
